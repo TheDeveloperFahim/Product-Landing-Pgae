@@ -1,0 +1,28 @@
+#footer,
+.mybtn2,
+#news-leter::before,
+#testimonial::before,
+.features-item:hover,
+.section-title .title::before,
+#home-section,
+#header {
+    background: #d70d25;
+}
+.footer-social-icon a:hover i,
+.contact-item h5,
+.contact-item .icon i,
+#faq .suppot-text a,
+.clien-info h5,
+.product-price .new-price,
+.features-item .icon i,
+.about-content ul li i,
+.section-title .title,
+.mybtn1:hover,
+.mybtn1 {
+    color: #d70d25;
+}
+
+.contact-form .form-control:focus,
+.clien-info img {
+    border-color: #d70d25;
+}
